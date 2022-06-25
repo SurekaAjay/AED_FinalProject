@@ -1,7 +1,7 @@
-DevelopedJavaSwingapplicationtoprovideaneasyanduser-friendlyplatformwhereausercandonateorreceiveplasmaduring
+Developed Java Swing applicationton provide an easy and user-friendly platform where a user can donate or receive plasma during
 the COVID-19 pandemic using ecosystem model
-Implementedobjectmodelestablishingaconnectionbetweennetworkandmultipleenterprisesdeployingworkrequest
-IncorporatedfeaturesemailAPI,GooglesheetAPIforautoemailgenerationtodonor
+Implemented object modele stablishing a connection between network and multiple enterprises deploying work request
+Incorporated features email API,Googlesheet API for auto email generation to donor
 
 Creation of data
 
